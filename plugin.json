@@ -1,0 +1,7 @@
+{
+    "id": "rs_2d_highway",
+    "name": "Rocksmith 2D highway",
+    "version": "1.0.0",
+    "type": "visualization",
+    "script": "screen.js"
+}
